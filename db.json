@@ -18,14 +18,14 @@
   ],
   "users": [
     {
-      "username": "tung",
-      "password": "xntyuiop",
-      "fullname": "Le Nhat Tung"
+      "username": "huy",
+      "password": "123456",
+      "fullname": "Lương Gia Huy"
     },
     {
-      "username": "peter",
-      "password": "xntyuiop",
-      "fullname": "Peter"
+      "username": "huy",
+      "password": "123456",
+      "fullname": "huy"
     }
   ]
 }
